@@ -10,7 +10,7 @@ body {
       text-align: center;
     }
     nav {
-      background-color: #baab7e;
+      background-color: #c6b473;
       padding: 10px;
       text-align: center;
     }
@@ -31,4 +31,84 @@ body {
       margin: 10px;
       border-radius: 10px;
     }
-    
+.green{
+  height: 330px;
+}
+.rose{
+  height: 330px;
+}
+.mango{
+  height: 330px;
+}
+.jamun{
+  height: 330px;
+}
+.straw{
+  height: 330px;
+}
+.choclate{
+  height: 330px;
+}
+.fruit{
+  height: 330px;
+}
+.coldc{
+  height: 330px;
+}
+.pin{
+  height: 330px;
+}
+.musk{
+  height: 330px;
+}
+.mb{
+  height: 330px;
+}
+.col{
+  height: 330px;
+}
+div{
+   text-align: center;
+}
+.nb{
+  left: 200px;
+}
+footer{
+      background-color: #371702;
+      color: white;
+      padding: 20px;
+      text-align: center;
+}
+.abt{
+  align-items: center;
+}
+.our{
+  align-items: center;
+}
+.wel{
+  align-items: center;
+}
+.par{
+  align-items: center;
+    border: 10px solid #371702; 
+      padding: 20px;           
+      margin: 20px;
+      margin-left: 300px;
+      margin-right: 300px;           
+      font-family: Arial
+ }
+ .abto{
+  align-items: center;
+    border: 10px solid #371702; 
+      padding: 20px;           
+      margin: 20px;
+      margin-left: 120px;
+      margin-right: 120px;           
+      font-family: Arial
+ }
+ body{
+  background-color: #ede6d1;
+}
+
+
+
